@@ -1,0 +1,1 @@
+# beanstream-angular-sdk
